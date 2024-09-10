@@ -1,5 +1,5 @@
 
-<h1 align="center">Rafi's here!👋, </h1>
+<h1 align="center">Rafi's here!👋</h1>
 <h3 align="center">Software Engineer</h3>
 
 - 🔭 I'm currently working on [KasirCerdas](https://github.com/portRafi/KasirCerdas)
