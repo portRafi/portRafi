@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on [KasirCerdas](https://github.com/portRafi/KasirCerdas)
 
-- 🌱 I also currently learning **Express.Js and React Native**
+- 🌱 I also currently learning **Express.Js and Laravel**
 
 - 👨‍💻 My projects preview are available at my instagram [@rasfise](@raffisee)
 
