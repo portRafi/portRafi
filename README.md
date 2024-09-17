@@ -1,7 +1,7 @@
 
 ![Contribution](https://github.com/ProgrammerDATCH/ProgrammerDATCH/blob/output/github-contribution-grid-snake-dark.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer+DATCH;I+am+App+Developer)](https://programmerdatch.netlify.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer;I+am+App+Developer)](https://programmerdatch.netlify.app/)
 
 **ProgrammerDATCH**: *Apply complicated algorithm to get eazy life.* || *Are you delighted that all my stuff are scrumptious?.* 
 
