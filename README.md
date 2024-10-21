@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I+am+Programmer;I+am+App+Developer;I+am+Web+Developer)](https://programmerdatch.netlify.app/)
 
-**portRafii**: *Apply complicated algorithm to get eazy life.* || *Are you delighted that all my stuff are scrumptious?.* 
+**portRafi**: *Apply complicated algorithm to get eazy life.* || *Are you delighted that all my stuff are scrumptious?.* 
 
 <h3 align="left">Some of tools I frequently use:</h3>
 <p align="left">
